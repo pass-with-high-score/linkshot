@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=linkshot
+Comment=Capture, annotate and upload a screenshot
+Exec=linkshot
+Icon=applets-screenshooter
+Terminal=false
+Categories=Utility;Graphics;
+Keywords=screenshot;capture;upload;annotate;
